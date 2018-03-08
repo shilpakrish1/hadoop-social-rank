@@ -1,0 +1,12 @@
+eu80	2qRY1c
+eu80	1ObKeo
+ZVyIyp	2qRY1c
+ZVyIyp	1ObKeo
+2qRY1c	eu80
+2qRY1c	ZVyIyp
+7pR7f	ZsQwet
+6KpSz	ZsQwet
+1ObKeo	eu80
+1ObKeo	ZVyIyp
+ZsQwet	7pR7f
+ZsQwet	6KpSz

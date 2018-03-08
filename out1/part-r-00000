@@ -1,0 +1,7 @@
+1ObKeo	1ObKeo,1!ZsQwet,0.167:7pR7f,0.167:eu80,0.167:2qRY1c,0.167:ZVyIyp,0.167:6KpSz,0.167:
+2qRY1c	2qRY1c,1!7pR7f,0.167:1ObKeo,0.167:eu80,0.167:ZVyIyp,0.167:6KpSz,0.167:
+6KpSz	6KpSz,1!ZsQwet,0.25:7pR7f,0.25:1ObKeo,0.25:2qRY1c,0.25:
+7pR7f	7pR7f,1!ZsQwet,0.2:1ObKeo,0.2:2qRY1c,0.2:6KpSz,0.2:
+ZVyIyp	ZVyIyp,1!ZsQwet,0.2:1ObKeo,0.2:eu80,0.2:2qRY1c,0.2:
+ZsQwet	ZsQwet,1!7pR7f,0.2:1ObKeo,0.2:eu80,0.2:ZVyIyp,0.2:6KpSz,0.2:
+eu80	eu80,1!ZsQwet,0.2:1ObKeo,0.2:2qRY1c,0.2:ZVyIyp,0.2:
